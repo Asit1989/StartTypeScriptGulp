@@ -1,0 +1,9 @@
+{
+	"files": [
+		"src/app/ts/app.ts"
+	],
+	"complilerOptions": {
+		"noImplicitAny": true,
+		"target": "es5"
+	}
+}
